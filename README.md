@@ -2,6 +2,8 @@
 
 #Mozilla Study Groups
 
+##test CLenio legal
+
 Welcome to [Mozilla Science Lab](https://www.mozillascience.org/)'s Study Group project! From here, we'll set you up with everything you need to start your own study group.
 
 ### Wait What's a 'Mozilla Study Group'?
